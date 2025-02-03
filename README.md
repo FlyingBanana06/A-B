@@ -37,7 +37,7 @@ Below are the adjustments made to improve the original code:
 - Addressed numerous small improvements and tested ideas throughout the rewriting process.
 
 ## Development Timeline
-- **Original Assignment**: ~10 hrs
+- **Original Assignment**: ~8 hrs
 - **Rewriting Process**: ~5 hrs
 
 ## Additional Notes
