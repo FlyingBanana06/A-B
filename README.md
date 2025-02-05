@@ -1,4 +1,4 @@
-# A-B
+# A = B
 - This project is a game project, rewritten from a school assignment about string processing. 
 - It was originally authored by Colten Chen, assignment details can be found [here](https://hackmd.io/@L39Ai4MITOCY2Aioz54q2g/2024PD1_HW7).
 
